@@ -1,0 +1,3 @@
+[submodule "ml/rl/test/gym/reco-gym"]
+	path = ml/rl/test/gym/reco-gym
+	url = https://github.com/criteo-research/reco-gym.git
